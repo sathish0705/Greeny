@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'IM Fell Great Primer SC', serif;
+font-family: 'Itim', cursive;
+font-family: 'Mooli', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Telex', sans-serif;
+}
+.logo{
+    color: black;
+}
+.home{
+    display: flex;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    width: 20%;
+    padding: 15px;
+    justify-content: space-around;
+    margin-left: 60%;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: lightsteelblue;
+}
+.box1{
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.box2{
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    
+}
+.button{
+    display: flex;
+    padding: 20px;
+    background-color: lightsteelblue;
+}
+.shop{
+    padding: 10px;
+    background-color: lightsteelblue;
+}
+.word{
+    display: flex;
+    background-color: lightsteelblue;
+    padding: 10px;
+
+}
+.box{
+    border-style: solid;
+    border-color: black;
+    width: 170px;
+    height: 170px;
+    text-align: center;
+}
+.free{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.Product{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: lightsteelblue;
+    align-items: center;
+}
+.seller{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    align-items: center;  
+}
+.client{
+    margin-left: 0;
+    padding: 20px;
+    background-color: lightsteelblue;
+}
+.rate{
+    justify-content: center;
+    
+}
+.sub{
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 5px;
+}
+
+   
